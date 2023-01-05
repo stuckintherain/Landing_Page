@@ -3,9 +3,20 @@ body{
     margin: 0;
     display: flex;
     flex-direction: column;
-    
-    
 }
 
+.header{
+    display: flex;
 
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
 
